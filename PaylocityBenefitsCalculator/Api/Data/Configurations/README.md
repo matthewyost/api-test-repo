@@ -1,0 +1,1 @@
+This folder contains the EntityFramework configurations to help establish the database model.
